@@ -1,3 +1,4 @@
 Aquest és el contingut inicial del primer fitxer."
 Canvi fet a text1.txt des de branca-edicio2.
 This is a new line in branca-nova1
+This is a new line in branca-nova2
