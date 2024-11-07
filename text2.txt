@@ -1,2 +1,2 @@
 Aquest és el contingut inicial del segon fitxer."
-Editat desde branca-edicio1
+Editat desde branca-edicio2
